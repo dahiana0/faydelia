@@ -8,9 +8,9 @@ export const Home = () => {
     <>
       <Header
         colorHeader="#740C13"
-        searchIcon="./public/search (1).svg"
-        bellIcon="./public/bell (2).svg"
-        userIcon="./public/user (1).svg"
+        searchIcon="./search (1).svg"
+        bellIcon="./bell (2).svg"
+        userIcon="./user (1).svg"
         username="STARlD"
       />
 
@@ -18,12 +18,11 @@ export const Home = () => {
         subtitulo="Un mundo de postres deliciosos para disfrutar"
         titulo="Pastel Red Velvet"
         descripcion="Esponjoso pastel de suave cacao con su característico color rojo intenso. Su masa ligera y aterciopelada se combina perfectamente con una cremosa cobertura dulce que resalta su sabor delicado y equilibrado. Cada porción ofrece una textura suave y un toque dulce irresistible, convirtiéndolo en un postre elegante y delicioso para cualquier ocasión. Un pastel clásico, llamativo y perfecto para los amantes de los sabores suaves y cremosos."
-        imagen="./public/Torta 1 .png"
+        imagen="./Torta 1 .png"
         color="#740C13"
         boton1Text="Ver Receta"
-        boton1Imagen="/IconoReceta.png"
         boton2Text="Añadir al Carrito"
-        boton2Imagen="/IconoCarrito.png"
+        
       />
 
       <div className="container mt-5">
@@ -46,7 +45,7 @@ export const Home = () => {
           <CardCake
             titulo="Cupcake de Chocolate"
             descripcion="Cupcake suave con textura esponjosa con delicioso sabor a chocolate y crema dulce.."
-            imagen="./public/Choco.png"
+            imagen="./Choco.png"
             colorCard="#8C4830"
             colorBoton="#D9946C"
           />
@@ -54,7 +53,7 @@ export const Home = () => {
           <CardCake
             titulo="Pastel de Uvas Verdes"
             descripcion="Pastel suave con textura esponjosa con delicioso sabor a uvas verdes y crema dulce."
-            imagen="./public/Uvas.png"
+            imagen="./Uvas.png"
             colorCard="#CDD973"
             colorBoton="#A3BF3B"
           />
@@ -70,7 +69,7 @@ export const Home = () => {
           <CardCake
             titulo="Cupcake de Naranja"
             descripcion="Cupcake suave, esponjoso, dulce, aromático, fresco, ligero, cítrico, cremoso, delicioso y lleno de sabor a naranja."
-            imagen="./public/CupNaranja.png"
+            imagen="./CupNaranja.png"
             colorCard="#f79b4b"
             colorBoton="#f78800"
           />

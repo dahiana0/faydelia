@@ -10,21 +10,20 @@ export const Cakes = () => {
 
  <Header
         colorHeader="#461022"
-        searchIcon="./public/search (2).svg"
-        bellIcon="./public/bell (3).svg"
-        userIcon="./public/user (2).svg"
+        searchIcon="./search (2).svg"
+        bellIcon="./bell (3).svg"
+        userIcon="./user (2).svg"
         username="STARlD"
       />
       <BannerCake
         subtitulo="Pasteles irresistibles en cada bocado"
         titulo="Pastel de Moras"
         descripcion="Esponjoso pastel con un delicioso y refrescante sabor a moras. Su suave masa y textura ligera se combinan perfectamente con una cremosa cobertura dulce que resalta el toque frutal de las moras, creando un equilibrio ideal entre dulzura y frescura en cada bocado. Cada porción ofrece un sabor delicado y aromático que lo convierte en un postre perfecto para disfrutar en cualquier momento. Un pastel colorido, suave e irresistible para quienes aman los sabores frutales."
-        imagen="./public/MorasCakes.png"
+        imagen="./MorasCakes.png"
         color="#461022"
         boton1Text="Ver Receta"
-        boton1Imagen="/IconoReceta.png" 
         boton2Text="Añadir al Carrito"
-        boton2Imagen="/IconoCarrito.png" 
+        
       />
 
       
@@ -50,7 +49,7 @@ export const Cakes = () => {
           <CardCake
             titulo="Pastel de Banano"
             descripcion="Pastel suave de banano con un delicioso sabor dulce y una textura esponjosa."
-            imagen="./public/Banano.png"
+            imagen="./Banano.png"
             colorCard="#F2DEA0"
             colorBoton="#F2BD1D"
           />
@@ -66,7 +65,7 @@ export const Cakes = () => {
           <CardCake
             titulo="Pastel de Zanahoria"
             descripcion="Pastel suave con textura esponjosa con delicioso sabor a zanahoria y crema dulce."
-            imagen="./public/Zanahoria.png"
+            imagen="./Zanahoria.png"
             colorCard="#8C1C03"
             colorBoton="#D97D48"
           />
@@ -74,7 +73,7 @@ export const Cakes = () => {
           <CardCake
             titulo="Pastel de Tres Leches"
             descripcion="Pastel suave  esponjoso con clásica mezcla de tres leches y crema dulce."
-            imagen="./public/3leches.png"
+            imagen="./3leches.png"
             colorCard="#f3b972"
             colorBoton="#8C4117"
           />

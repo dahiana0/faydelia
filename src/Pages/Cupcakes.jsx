@@ -10,9 +10,9 @@ export const Cupcakes = () => {
 
      <Header
         colorHeader="#838C3B"
-        searchIcon="./public/search (3).svg"
-        bellIcon="./public/bell (4).svg"
-        userIcon="./public/user (3).svg"
+        searchIcon="./search (3).svg"
+        bellIcon="./bell (4).svg"
+        userIcon="./user (3).svg"
         username="STARlD"
       />
 
@@ -20,7 +20,7 @@ export const Cupcakes = () => {
         subtitulo="Deliciosos cupcakes para cada antojo"
         titulo="Cupcake de Kiwi"
         descripcion="Esponjoso cupcake con un delicioso y refrescante sabor a kiwi. Su suave masa combina perfectamente con una cremosa cobertura dulce que resalta el toque frutal, creando un equilibrio entre dulzura y frescura en cada bocado. Un postre ligero, colorido e irresistible para los amantes de los sabores tropicales."
-        imagen="./public/Kiwwi.png"
+        imagen="./Kiwwi.png"
         color="#838C3B"
         boton1Text="Ver Receta"
         boton2Text="Añadir al Carrito"
@@ -49,7 +49,7 @@ export const Cupcakes = () => {
           <CardCake
             titulo="Cupcake de Mora Azul"
             descripcion="Cupcake suave con  delicioso  sabor a mora azul."
-            imagen="./public/MoraAzul.png"
+            imagen="./MoraAzul.png"
             colorCard="#516b8d"
             colorBoton="#011140"
           />
@@ -57,7 +57,7 @@ export const Cupcakes = () => {
           <CardCake
             titulo="Cupcake de Frambuesa"
             descripcion="Cupcake suave con delicioso sabor a frambuesa."
-            imagen="./public/Frambuesa.png"
+            imagen="./Frambuesa.png"
             colorCard="#F2AEBB"
             colorBoton="#D9486E"
           />
@@ -65,7 +65,7 @@ export const Cupcakes = () => {
           <CardCake
             titulo="Cupcake de Arándanos"
             descripcion="Cupcake suave con delicioso sabor a arándanos."
-            imagen="./public/Arandanos .png"
+            imagen="./Arandanos .png"
             colorCard="#A077A6"
             colorBoton="#723973"
           />
@@ -73,7 +73,7 @@ export const Cupcakes = () => {
           <CardCake
             titulo="Cupcake de Caramelo"
             descripcion="Cupcake suave con delicioso sabor a caramelo."
-            imagen="./public/Caramelo.png"
+            imagen="./Caramelo.png"
             colorCard="#f3ab54"
             colorBoton="#BF6A1F"
           />

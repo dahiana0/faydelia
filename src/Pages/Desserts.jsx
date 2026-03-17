@@ -9,9 +9,9 @@ export const Desserts = () => {
     <>
  <Header
         colorHeader="#A64B2A"
-        searchIcon="./public/search (4).svg"
-        bellIcon="./public/bell (5).svg"
-        userIcon="./public/user (4).svg"
+        searchIcon="./search (4).svg"
+        bellIcon="./bell (5).svg"
+        userIcon="./user (4).svg"
         username="STARlD"
       />
 
@@ -19,7 +19,7 @@ export const Desserts = () => {
         subtitulo="Postres especiales en cada bocado"
         titulo="Cheesecake de Coco"
         descripcion="Delicioso y cremoso cheesecake con un suave y aromático sabor a coco. Su base crujiente contrasta perfectamente con la textura suave y ligera del relleno, creando un postre equilibrado y lleno de sabor. Cada bocado ofrece una combinación dulce y tropical, acompañado de una delicada crema y un toque de coco que lo hace aún más irresistible.."
-        imagen="./public/Coco.png"
+        imagen="./Coco.png"
         color="#A64B2A"
         boton1Text="Ver Receta"
         boton2Text="Añadir al Carrito"
